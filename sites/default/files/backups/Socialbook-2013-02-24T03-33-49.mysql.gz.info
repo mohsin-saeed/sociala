@@ -1,0 +1,8 @@
+filename = "Socialbook-2013-02-24T03-33-49"
+description = ""
+datestamp = "1361658829"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.20"
+sites[0][name] = "Socialbook"
+sites[0][url] = "http://localhost/social/"
